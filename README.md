@@ -1,38 +1,44 @@
 # Atom-package-list
 Atom package list
 
-[atom-autocomplete-php][1]
-[atom-beautify][2]
-[atom-symfony][3]
-[auto-detect-indentation][4]
-[autoclose-html][5]
-[autocomplete-modules][6]
-[color-picker][7]
-[docblockr][8]
-[expand-selection-to-quotes][9]
-[expose][10]
-[file-icons][11]
-[fuzzy-finder][12]
-[git-time-machine][13]
-[highlight-selected][14]
-[linter][15]
-[linter-jsonlint][16]
-[linter-sass-lint][17]
-[linter-twig][18]
-[merge-conflicts][19]
-[minimap][20]
-[minimap-find-and-replace][21]
-[minimap-git-diff][22]
-[minimap-pigments][23]
-[monokai][24]
-[php-debug][25]
-[php-getters-setters][26]
-[pigments][27]
-[platformio-ide-terminal][28]
-[project-manager][29]
-[sort-lines][30]
-[symfony-snippets][31]
-[trailing-spaces][32]
+* [atom-autocomplete-php][1]
+* [atom-beautify][2]
+* [atom-symfony][3]
+* [auto-detect-indentation][4]
+* [autoclose-html][5]
+* [autocomplete-modules][6]
+* [color-picker][7]
+* [compare-files][33]
+* [data-atom][34]
+* [docblockr][8]
+* [expand-selection-to-quotes][9]
+* [expose][10]
+* [file-icons][11]
+* [fuzzy-finder][12]
+* [git-time-machine][13]
+* [highlight-selected][14]
+* [linter][15]
+* [linter-jsonlint][16]
+* [linter-sass-lint][17]
+* [linter-twig][18]
+* [merge-conflicts][19]
+* [minimap][20]
+* [minimap-find-and-replace][21]
+* [minimap-git-diff][22]
+* [minimap-pigments][23]
+* [monokai][24]
+* [php-debug][25]
+* [php-getters-setters][26]
+* [php-twig][35]
+* [pigments][27]
+* [platformio-ide-terminal][28]
+* [pretty-json][36]
+* [project-manager][29]
+* [sort-lines][30]
+* [standard-formatter][37]
+* [symfony-snippets][31]
+* [todo-show][38]
+* [trailing-spaces][32]
 
 [1]:https://atom.io/packages/atom-autocomplete-php
 [2]:https://atom.io/packages/atom-beautify
@@ -66,3 +72,9 @@ Atom package list
 [30]:https://atom.io/packages/sort-lines
 [31]:https://atom.io/packages/symfony-snippets
 [32]:https://atom.io/packages/trailing-spaces
+[33]:https://atom.io/packages/compare-files
+[34]:https://atom.io/packages/data-atom
+[35]:https://atom.io/packages/php-twig
+[36]:https://atom.io/packages/pretty-json
+[37]:https://atom.io/packages/standard-formatter
+[38]:https://atom.io/packages/todo-show

@@ -5,6 +5,8 @@ auto-detect-indentation@1.1.0
 autoclose-html@0.23.0
 autocomplete-modules@1.6.1
 color-picker@2.2.2
+compare-files@0.8.0
+data-atom@0.23.0
 docblockr@0.7.4
 expand-selection-to-quotes@0.9.0
 expose@0.12.1
@@ -24,9 +26,13 @@ minimap-pigments@0.2.1
 monokai@0.18.0
 php-debug@0.2.3
 php-getters-setters@0.5.5
+php-twig@4.0.0
 pigments@0.31.2
 platformio-ide-terminal@2.1.1
+pretty-json@1.6.0
 project-manager@2.9.7
 sort-lines@0.14.0
+standard-formatter@2.1.0
 symfony-snippets@0.3.0
+todo-show@1.7.0
 trailing-spaces@0.3.2
